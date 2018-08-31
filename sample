@@ -1,0 +1,3 @@
+cd ..
+ls -a
+ls -ltr
